@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="Le podcast 100% jeux vidéo" xmlUrl="http://thenewrg.podcloud.fr/rss" />
+      <outline type="rss" text="tmail devcast" xmlUrl="http://podcasts.toorop.fr/tmail/tmail_devcast.xml" />
+      <outline type="rss" text="That Drone Show" xmlUrl="http://thatdroneshow.libsyn.com/rss" />
+      <outline type="rss" text="The Podcasters’ Studio – How to Record, Publish and Promote Audio and Video Podcasts" xmlUrl="http://thepodcastersstudio.com/category/podcasts/thepodcastersstudio/feed/" />
+      <outline type="rss" text="Here Be Monsters" xmlUrl="http://feeds.feedburner.com/herebemonsterspodcast/" />
+      <outline type="rss" text="The Skepticrat" xmlUrl="http://skepticrat.libsyn.com/rss" />
+      <outline type="rss" text="Lifehacker" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:13359686/sounds.rss" />
+      <outline type="rss" text="Bazingcast" xmlUrl="http://feeds.feedburner.com/Bazingcast" />
+      <outline type="rss" text="Tech News Today (MP3)" xmlUrl="http://leoville.tv/podcasts/tnt.xml" />
+      <outline type="rss" text="Home Work" xmlUrl="http://feeds.5by5.tv/homework" />
+      <outline type="rss" text="Upvoted by reddit" xmlUrl="http://upvoted.libsyn.com/rss" />
+      <outline type="rss" text="Invisibilia" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" />
+      <outline type="rss" text="Entreprogrammers" xmlUrl="http://media.signalleaf.com/Entreprogrammers/rss" />
+      <outline type="rss" text="This Developer's Life" xmlUrl="http://feeds.feedburner.com/ThisDevelopersLife" />
+      <outline type="rss" text="NipTech Podcast » NipLife" xmlUrl="http://feeds.feedburner.com/NiptechPodcastNiplife" />
+      <outline type="rss" text="Le Comptoir Sécu" xmlUrl="http://www.comptoirsecu.fr/feed/podcast" />
+      <outline type="rss" text="Giant Robots Smashing into other Giant Robots Podcast" xmlUrl="http://simplecast.fm/podcasts/271/rss" />
+      <outline type="rss" text="Back to Work" xmlUrl="http://feeds.5by5.tv/b2w/" />
+      <outline type="rss" text="NipTech: Startups et Inspiration" xmlUrl="http://feeds.feedburner.com/niptechpodcast" />
+      <outline type="rss" text="Studio404" xmlUrl="http://fibretigre.com/divers/Studio404_1.xml" />
+      <outline type="rss" text="The MultiRotor Podcast: Multirotors | Drones | Aerial Photo and Video | Reviews | Advice" xmlUrl="http://www.multirotorpodcast.com/feed/podcast/" />
+      <outline type="rss" text="Conspiracy Corner - Dave and Wes" xmlUrl="http://www.blogtalkradio.com/conspiracycorner/podcast" />
+      <outline type="rss" text="Temporium : Richard Fremder raconte ..." xmlUrl="http://temporium.podomatic.com/rss2.xml" />
+      <outline type="rss" text="Les Tauliers" xmlUrl="http://feeds.radiojv.com/podcast_tauliers.xml" />
+      <outline type="rss" text="The Web Ahead" xmlUrl="http://feeds.5by5.tv/webahead/" />
+      <outline type="rss" text="L'éclectique show" xmlUrl="http://feeds.feedburner.com/eclectiqueshow" />
+      <outline type="rss" text="nipcast » nipcoin" xmlUrl="http://feeds.feedburner.com/Nipcoin" />
+      <outline type="rss" text="Dan Carlin's Hardcore History" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" />
+      <outline type="rss" text="Podcast Method" xmlUrl="http://feeds.5by5.tv/podcastmethod" />
+      <outline type="rss" text="L'apéro du Captain" xmlUrl="http://feeds.feedburner.com/LaperoDuCaptain" />
+      <outline type="rss" text="Irreverent Skeptics Podcast" xmlUrl="http://irreverentskeptics.com/feed/podcast/" />
+      <outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" />
+      <outline type="rss" text="This Week in Tech (MP3)" xmlUrl="http://leoville.tv/podcasts/twit.xml" />
+      <outline type="rss" text="Papa, à quoi tu joues ?" xmlUrl="http://www.papaaquoitujoues.fr/papaaqtj/Blog/rss.xml" />
+      <outline type="rss" text="AppLoad" xmlUrl="http://feeds.feedburner.com/appload" />
+      <outline type="rss" text="DLC" xmlUrl="http://feeds.5by5.tv/dlc" />
+      <outline type="rss" text="Les Cast Codeurs Podcast" xmlUrl="http://lescastcodeurs.libsyn.com/rss" />
+      <outline type="rss" text="Rendez-vous avec X" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14726.xml" />
+      <outline type="rss" text="Games in the Pocket" xmlUrl="http://feeds.feedburner.com/gamesinthepocket" />
+      <outline type="rss" text="Scepticisme Scientifique" xmlUrl="http://pangolia.com/blog/?feed=podcast" />
+      <outline type="rss" text="Get up and CODE!" xmlUrl="http://getupandcode.com/feed/podcast/" />
+      <outline type="rss" text="Le Player Club" xmlUrl="http://feeds.radiojv.com/podcast_lpc.xml" />
+      <outline type="rss" text="This Week in Google (MP3)" xmlUrl="http://leoville.tv/podcasts/twig.xml" />
+      <outline type="rss" text="A Skeptics Guide To Conspiracy" xmlUrl="http://mikebohler.com/?feed=podcast" />
+      <outline type="rss" text="Season1" xmlUrl="http://feeds.feedburner.com/Season1Podcast" />
+      <outline type="rss" text="Topical" xmlUrl="http://podcasts.jellystyle.com/topical/rss" />
+      <outline type="rss" text="une fille un podcast" xmlUrl="http://unefilleunpodcast.podcloud.fr/rss" />
+      <outline type="rss" text="Podcasters’ Roundtable – Podcasters Discussing Podcasting" xmlUrl="http://podcastersroundtable.com/feed/podcast/" />
+      <outline type="rss" text="PARANORMAL PODCAST | Jim Harold" xmlUrl="http://jimharold.com/?feed=podcast" />
+      <outline type="rss" text="1 Day Business Breakthrough - Helping Entrepreneurs Discover Their Next Big Idea Today |1DayBB" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:130477445/sounds.rss" />
+      <outline type="rss" text="Ask My Backers" xmlUrl="http://www.geekinc.fr/rss/ask-my-backers.xml" />
+      <outline type="rss" text="LibeLabo - Silence, on joue !" xmlUrl="http://www.liberation.fr/podcast/31/" />
+      <outline type="rss" text="Amateur Skeptics" xmlUrl="http://feeds.feedburner.com/AmateurSkeptics" />
+      <outline type="rss" text="Passe le Stick" xmlUrl="http://feeds.radiojv.com/podcast_pls.xml" />
+      <outline type="rss" text="Rocket" xmlUrl="http://www.relay.fm/rocket/feed" />
+      <outline type="rss" text="In Beta" xmlUrl="http://feeds.5by5.tv/inbeta/" />
+      <outline type="rss" text="nipcast » nipsource" xmlUrl="http://feeds.feedburner.com/NipcastNipsource" />
+      <outline type="rss" text="Daily Tech News Show" xmlUrl="http://feeds.feedburner.com/DailyTechNewsShow" />
+      <outline type="rss" text="Love + Radio" xmlUrl="http://feed.loveandradio.org/loveplusradio" />
+      <outline type="rss" text="CodeNewbie" xmlUrl="http://feeds.podtrac.com/q8s8ba9YtM6r" />
+      <outline type="rss" text="Entrepreneur On Fire | Daily chats with inspiring Entrepreneurs" xmlUrl="http://entrepreneuronfire.libsyn.com/rss" />
+      <outline type="rss" text="Skeptoid" xmlUrl="http://skeptoid.com/podcast.xml" />
+      <outline type="rss" text="Positron" xmlUrl="http://feeds.feedburner.com/emissionpositron" />
+      <outline type="rss" text="Gamerside" xmlUrl="http://www.gamerside.fr/podcasts/podcasts.xml" />
+      <outline type="rss" text="Developer Tea" xmlUrl="http://feeds.feedburner.com/DeveloperTea?" />
+      <outline type="rss" text="Le podcast de ZQSD" xmlUrl="http://zqsd.fr/zqsd.xml" />
+      <outline type="rss" text="Geek Inc HD" xmlUrl="http://www.geekinc.fr/rss/geek-inc-hd.xml" />
+      <outline type="rss" text="The Walking Web" xmlUrl="http://feeds.feedburner.com/TheWalkingWeb" />
+      <outline type="rss" text="NipTech Podcast » NipSales" xmlUrl="http://feeds.feedburner.com/nipsales" />
+      <outline type="rss" text="Tech Café" xmlUrl="http://www.guillaumevende.me/_ressources/podcasts/tech-cafe/feed.xml" />
+      <outline type="rss" text="The Audacity to Podcast – how to launch and improve your podcast for success" xmlUrl="http://feeds.noodle.mx/theaudacitytopodcast-mp3" />
+      <outline type="rss" text="Screenplay" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:18691511/sounds.rss" />
+      <outline type="rss" text="Podcast Science" xmlUrl="HTTP://feeds.feedburner.com/podcastscience" />
+      <outline type="rss" text="Le rendez-vous Tech" xmlUrl="http://feeds2.feedburner.com/lerendezvoustech" />
+      <outline type="rss" text="The Changelog" xmlUrl="http://feeds.5by5.tv/changelog" />
+      <outline type="rss" text="Parlons Balado » podcast parlons balado" xmlUrl="http://feeds.feedburner.com/ParlonsBaladoPodcastParlonsBalado" />
+      <outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible?" />
+      <outline type="rss" text="The Phileas Club" xmlUrl="http://www.thephileasclub.com/phileasrss.xml" />
+      <outline type="rss" text="NipTech Podcast » NipDev" xmlUrl="http://feeds.feedburner.com/nipdev" />
+      <outline type="rss" text="The Truth" xmlUrl="http://feeds.feedburner.com/thetruthapm" />
+      <outline type="rss" text="WTF with Marc Maron Podcast" xmlUrl="http://wtfpod.libsyn.com/rss" />
+      <outline type="rss" text="Le rendez-vous Jeux" xmlUrl="http://feeds.feedburner.com/lerendezvousjeux" />
+      <outline type="rss" text="Criminal" xmlUrl="http://feeds.feedburner.com/CriminalShow" />
+      <outline type="rss" text="The Big Web Show" xmlUrl="http://feeds.5by5.tv/bigwebshow/" />
+    </outline>
+  </body>
+</opml>
